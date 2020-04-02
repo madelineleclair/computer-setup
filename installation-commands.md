@@ -11,6 +11,10 @@ fi
 ```
 Install homebrew
 
+Install nvm for managing node version
+
+https://www.codementor.io/@mercurial/how-to-install-node-js-on-macos-sierra-mphz41ekk
+
 Install yarn using homebrew. (this make it easier to upgrade in the future)
 https://classic.yarnpkg.com/en/docs/install/#mac-stable
 
