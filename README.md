@@ -32,6 +32,10 @@ When making commits, you want to have the correct name and email set. Once a com
 
 After reconfiguring your name and email, you can verify it by rerunning steps 1 and 2.
 
+## Git Completion
+
+Git completion allows you to auto complete. To install, run `brew install zsh-completion` for zsh and `brew install bash-completion` for bash. Follow the output after the installation. 
+
 ## Software installation
 
 Install the following software:
