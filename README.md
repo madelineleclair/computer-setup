@@ -3,7 +3,7 @@ A repository for setting up any new Mac computer with all the stuff you need to 
 
 ## Install editor
 
-Pick your favorite editor and install it. I use [atom](https://atom.io/). If you use atom, make sure to install the atom shell commands by opening Atom, selecting Atom at the top, and then click `Install Shell Commands`. This will allow you to use the `atom .` command from the terminal, even when atom is not open.
+Pick your favorite editor and install it. I use [atom](https://atom.io/). If you use atom, make sure to install the atom shell commands by opening Atom, selecting Atom at the top, and then click `Install Shell Commands`. This will allow you to use the `atom .` command from the terminal. After installing the shell commands, if you have trouble running the `atom` when atom is not running (ex after you just start your computer), you can make an alias for the command, such as `alias atom = 'open -a "Atom"'`
 
 ## Install your terminal
 
