@@ -17,6 +17,21 @@ Aliases make your life so much easier. To install, make a `.zshrc` with `touch ~
 
 This allows you to not supply your username and personal access token when you want to connect to Github. To setup SSH, follow the steps from Github: https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh
 
+## Configure Git
+
+When making commits, you want to have the correct name and email set. Once a commit is made, the email and name cannot be changed. For more information, check out the [Git documentation](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+
+1. Check to see if you have the correct name configured for git
+`git config user.name`
+2. Check to see if you have the correct email configured for git
+`git config user.email`
+3. If your username is incorrect, set it
+`git config --global user.name "Sally Sue"`
+4. If your email is incorrect, set it
+`git config --global user.email sallysuee@example.com`
+
+After reconfiguring your name and email, you can verify it by rerunning steps 1 and 2.
+
 ## Software installation
 
 Install the following software:
