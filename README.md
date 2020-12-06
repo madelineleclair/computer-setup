@@ -7,11 +7,15 @@ Pick your favorite editor and install it. I use [atom](https://atom.io/). If you
 
 ## Install your terminal
 
-Pick your favorite editor and install it. I use [iTerm2](https://iterm2.com/)
+Pick your favorite terminal and install it. I use [iTerm2](https://iterm2.com/)
 
 ## Install aliases
 
 Aliases make your life so much easier. To install, make a `.zshrc` with `touch ~/.zshrc` for zsh terminals. If your using bash, use `touch ~/.bash_profile`. Open your `.zshrc` or your `.bash_profile` and add the aliases from [my aliases repo](https://github.com/madelineleclair/my_aliases/blob/master/aliases.txt).
+
+## SSH for Github
+
+This allows you to not supply your username and personal access token when you want to connect to Github. To setup SSH, follow the steps from Github: https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh
 
 ## Software installation
 
